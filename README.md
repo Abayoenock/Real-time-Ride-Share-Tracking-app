@@ -27,6 +27,5 @@ $ npm run dev
 ### Build
 
 ```bash
-# For windows
 $ npm run build
 ```
